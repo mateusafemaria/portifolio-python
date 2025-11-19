@@ -33,7 +33,7 @@ Escolha uma opção: 1
 Digite o valor A: 3
 Digite o valor B: 10
 
-Intervalo considerado: 3 até 10
+Intervalo considerado: 3 até 10?
 Números ímpares encontrados: [3, 5, 7, 9]
 Soma total dos ímpares: 24
 
@@ -41,4 +41,4 @@ Soma total dos ímpares: 24
 
 Nome: Mateus Ramos Marques
 
-GitHub: https://github.com/mateusfemaria
+GitHub: https://github.com/mateusafemaria
